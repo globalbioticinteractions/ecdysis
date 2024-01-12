@@ -1,5 +1,6 @@
 { 
-  "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "citation": "Jorrit H. Poelen. 2014. Species associations manually extracted from literature.",
-  "deprecated": false
+  "citation": "ecdysis - a portal for live-managing arthropod occurrence data",
+  "deprecated": false,
+  "format": "rss",
+  "url": "https://ecdysis.org/collections/datasets/rsshandler.php"
 }
