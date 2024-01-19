@@ -3,5 +3,4 @@
   "deprecated": false,
   "format": "rss",
   "url": "https://ecdysis.org/collections/datasets/rsshandler.php",
-  "exclude": ".*(UCSB|ANSP-ENT).*"
 }
