@@ -2,6 +2,6 @@
   "citation": "ecdysis - a portal for live-managing arthropod occurrence data",
   "deprecated": false,
   "format": "rss",
-  "exclude": ".*(BYU-BYUC|MSU-MSUC|ANSP-ENT|UHIM-UHIM|UTAH-PIPR|UWSP-PARA|UNHC-UNHC|MIN-UMSP|SCAN|UCSB-IZC|ASU-ASUHIC).*",
+  "exclude": ".*(BYU-BYUC|MSU-MSUC|ANSP-ENT|UHIM-UHIM|UTAH-PIPR|UWSP-PARA|UNHC-UNHC|MIN-UMSP|SCAN|UCSB-IZC|ASU-ASUHIC|FSCA-|PSUC-|SDNHM-SDMC).*",
   "url": "https://ecdysis.org/collections/datasets/rsshandler.php"
 }
